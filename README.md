@@ -67,6 +67,14 @@ My expertise lies in **model robustness**, **privacy in ML**, and **emotion reco
 - Trained an SVM on extracted features (activation, valence, power, anticipation).  
 - Mixed-view strategy yielded robust generalization across actor pairs and angles.
 
+📊 Predicting Patient Healthcare Utilization and Expenditure with Machine Learning
+- Developed regression and classification models using patient survey data with 108 features.
+- Applied linear regression with target transformation, improving median error metrics.
+- Used RMSE, MAE, MedSE, MedAE, and R² to evaluate expenditure prediction accuracy.
+- Classification leveraged TunedThresholdClassifierCV, boosting macro F1 to 0.7652.
+- Achieved 84% accuracy and strong macro F1 (0.77) on unseen validation data.
+- Demonstrated robust generalisation on both regression and classification tasks.
+👉 [View Project](https://github.com/CamiloMartinezM/ml-healthcare-project)
 ---
 
 ## 🛠 Skills
