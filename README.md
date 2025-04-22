@@ -3,11 +3,14 @@
 🎓 M.Sc. Informatics | Saarland University  
 🔬 Research Assistant | CISPA Helmholtz Zentrum  
 📍 Saarland, Germany  
+---
+## 🧠 About Me
 
-I’m a passionate machine learning enthusiast with a strong foundation in designing and optimizing models for real-world applications. My expertise spans Python, TensorFlow, PyTorch, and Agile methodologies. I’ve worked on cutting-edge projects in emotion recognition, model robustness, and privacy in machine learning, with research presented at international conferences.
+I'm a passionate machine learning enthusiast with a strong academic and research background. Currently pursuing my Master’s in Informatics at **Saarland University**, I also work as a Research Assistant at **CISPA Helmholtz Center**, where I focus on optimizing ML models in **low-data regimes**—especially for real-world domains like **healthcare**.
+
+My expertise lies in **model robustness**, **privacy in ML**, and **emotion recognition**. I'm hands-on with tools like **PyTorch**, **TensorFlow**, and **Scikit-learn**, and I love building reliable, efficient pipelines—from preprocessing to deployment.
 
 ---
-
 ## 📚 Education
 
 **Saarland University** — *M.Sc. Informatics*  
